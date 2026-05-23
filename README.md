@@ -8,7 +8,7 @@ I am a Pre-final year B.Tech ECE student at IIIT Kalyani (8.60 CGPA) with a pass
 ### 🛠️ Tech Stack & Tools
 * **Networking & Telecom:** 5G/6G Core, Software-Defined Networking (SDN), Mininet, Cisco Packet Tracer, TCP/IP Socket Programming
 * **Artificial Intelligence & Vision:** Scikit-Learn, YOLOv8, OpenCV, Natural Language Processing (NLP), Scikit-Learn
-* **Languages & Core:** Python, C++, C, MATLAB, Data Structures & Algorithms, Object-Oriented Programming (OOP)
+* **Languages & Core:** Python, C++, MATLAB, Data Structures & Algorithms, Object-Oriented Programming (OOP)
 * **Tools:** Linux (iptables, NAT), Git, GitHub, Pandas, NumPy
 
 ### 📫 Let's Connect
