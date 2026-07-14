@@ -43,17 +43,10 @@ I am a **B.Tech Electronics and Communication Engineering** student at **IIIT Ka
 
 ---
 
-### 📈 GitHub Stats
-
-![Anjishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ece23115-max&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ece23115-max&layout=compact&theme=radical)
-
----
-
 ### 🤝 Connect with Me
 
 - **LinkedIn:** [linkedin.com/in/anjishnu-bera-208346393](https://linkedin.com/in/anjishnu-bera-208346393)
 - **Email:** [anjishnubera2@gmail.com](mailto:anjishnubera2@gmail.com)
-- **Portfolio/GitHub:** [github.com/ece23115-max](https://github.com/ece23115-max)
+- **GitHub:** [github.com/ece23115-max](https://github.com/ece23115-max)
 
 *"Optimizing systems from the physical layer up to the back-end application database."*
