@@ -1,53 +1,65 @@
-# Hi, I'm Anjishnu Bera
+# Hi, I'm Anjishnu Bera 👋
 
-B.Tech ECE student at IIIT Kalyani interested in
-wireless communications, computer networks, embedded systems,
-and software development.
+### Electronics & Communication Engineering Student @ IIIT Kalyani
 
-## Areas of Interest
+I'm interested in **Wireless Communications, Networking, Communication-System Analysis, IoT, and Algorithms**.
 
-- Wireless Communications
-- 5G / 6G Networks
-- SDN & Computer Networking
-- Ambient Backscatter
-- IoT & Embedded Systems
-- Algorithms & Problem Solving
+## 🔬 Research
 
-## Technical Skills
+### Finite-Blocklength Ambient Backscatter Under Channel Aging and Energy Constraints
 
-### Languages
-C | C++ | Python | SQL
+* Finite-blocklength ambient backscatter communication
+* Intra-packet channel aging using Gauss-Markov modeling
+* Energy-harvesting constraints
+* Residual direct-link interference
+* EAS / RAS / CCAS device-selection schemes
+* Analytical success-probability modeling
+* Jensen-corrected and Padé-geometric threshold approximations
+* Monte Carlo validation
+* Throughput and optimal blocklength analysis
 
-### Networking & Wireless
-Mininet | SDN | Cisco Packet Tracer | TCP/IP | Linux Networking
-| Open vSwitch | 5G Core Simulation
+## 🛠️ Technical Skills
 
-### Hardware / Vision
-Arduino UNO | Sensor Integration | YOLOv8 | OpenCV
+**Languages:**
+C | C++ | Python | SQL | MATLAB
 
-## Featured Projects
+**Wireless & Networking:**
+Ambient Backscatter | Mininet | SDN | TCP/IP | Cisco Packet Tracer
 
-### Finite-Blocklength Ambient Backscatter
-Research on ambient backscatter communication under
-finite-blocklength coding, channel aging, residual direct-link
-interference, and energy-harvesting constraints.
+**Simulation & Analysis:**
+MATLAB | Monte Carlo Simulation | Mathematical Modeling | Numerical Analysis
 
-### Real-Time Drowning Detection via 5G Edge Computing
-YOLOv8 + Mininet SDN + 5G edge-computing pipeline for
-low-latency detection.
+**Computer Vision / IoT:**
+YOLOv8 | OpenCV | Arduino UNO | Sensors
 
-### Smart Home Safety & Environment Monitoring
-Arduino-based monitoring system using DHT11, IR and flame
-sensors with HC-05 Bluetooth alerts.
+**Tools:**
+Linux | Git | GitHub | Open vSwitch | iptables
 
-## Competitive Programming
+## 💻 Problem Solving
 
-190+ LeetCode problems solved
-- 96 Medium
-- 11 Hard
-- Focus: DP, DFS, Backtracking, Divide & Conquer
+* 190+ LeetCode problems solved
+* Dynamic Programming
+* DFS
+* Backtracking
+* Divide and Conquer
 
-## Connect
+## 📌 Selected Projects
 
-- LinkedIn: https://linkedin.com/in/anjishnu-bera-208346393
-- LeetCode: https://leetcode.com/u/anjishnubera2
+* Finite-Blocklength Ambient Backscatter Research
+* Real-Time Drowning Detection via 5G Edge Computing
+* Secure Network Topology Architecture
+* Smart Home Safety & Environment Monitoring System
+* Student Grade Card Generation & Sorting Application
+* IP Geolocation Tracker
+
+## 🎓 Education
+
+B.Tech in Electronics and Communication Engineering
+Indian Institute of Information Technology, Kalyani
+CGPA: 8.72/10.0 | Expected Graduation: May 2027
+
+## 📫 Connect
+
+LinkedIn: linkedin.com/in/anjishnu-bera-208346393
+
+LeetCode: leetcode.com/u/anjishnubera2
